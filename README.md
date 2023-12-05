@@ -1,5 +1,6 @@
 # MSBA-2023-BDA-TrendsMktPlace-Team2
 # Executive Summary
+### This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
 
 Every year, the consumer product goods industry witnesses the introduction of around 30,000 new products, yet less than 10% of them manage to achieve true success, as revealed by the McKinsey Consumer Trend Study in 2019. Understanding customers precisely and timely for product development becomes one of the key strengths of consumer packaged goods (CPG) companies. 
 
@@ -19,3 +20,6 @@ We leverage Databricks, PySpark, and OpenAI APIs to scalably conduct unsupervise
 ### 4. Provides a more flexible sentiment analysis option, in which specific customized interest in sentiments can be analyzed easily (e.g. label the reviews that favor the color of this product as "positive in color")
 ### 5. Can be easily extended and transformed to many industries, as long as there is available review data
 ### 6. Leads to a comprehensive dashboard that provides analysis on different levels (category/subcategory/product)
+
+### Link to the dataset: https://www.kaggle.com/datasets/jithinanievarghese/cosmetics-and-beauty-products-reviews-top-brands
+### Link to the project video: 
